@@ -29,7 +29,7 @@
         <div class="row">
             <div class="col-md-100">
                 <div class="mt-5 mb-3 clearfix">
-                    <h2 class="pull-left">Employees Details</h2>
+                    <h2 class="pull-left">Employee Details</h2>
                     <a href="view/create.php" class="btn btn-success pull-right"><i class="fa fa-plus"></i> Add New Employee</a>
                 </div>
                 <?php
