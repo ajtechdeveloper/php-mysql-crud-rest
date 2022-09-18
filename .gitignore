@@ -1,0 +1,12 @@
+vendor/*
+*.orig
+.buildpath
+.project
+.settings/*
+.idea/*
+composer.lock
+*~
+tests/phpunit_report/*
+/.settings/
+/.php_cs.cache
+.php-cs-fixer.cache
