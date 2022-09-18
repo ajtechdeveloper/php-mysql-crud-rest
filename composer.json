@@ -1,4 +1,6 @@
 {
+    "name": "php-mysql-crud-rest",
+    "description": "A simple PHP CRUD REST API App",
     "require": {
         "php": "^5.6 | ^7.0 | ^8.0",
         "ext-curl": "*",
